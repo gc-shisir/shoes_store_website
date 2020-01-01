@@ -1,0 +1,63 @@
+
+.img-fluid {
+    width:100vw;
+    height:90vh;
+}
+header{
+    border-bottom:3px solid #0A79DF;
+}
+
+.logo{
+    width: 50px;
+    border-radius: 50%
+}
+
+#section-brands{
+    overflow: auto;
+    background:#DAE0E2;
+}
+
+.card-img-top{
+    display: block;
+    height: 200px;
+}
+
+.shop-img{
+    height: 400px;
+}
+
+#contact-wrapper{
+    background: #bdc3c7;
+}
+
+#about-wrapper .row .container{
+    height:400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+p.about-heading{
+    font-size: 45px;
+}
+
+p.about-heading span{
+    font-size: 49px;
+    font-weight: bold;
+}
+
+.card:hover{
+    transform: translate(7px,-13px);
+}
+
+.brand:hover{
+    background: #70a1ff;
+    color:#fff;
+    
+    
+}
+
+
+
+
